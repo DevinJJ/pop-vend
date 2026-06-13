@@ -1,0 +1,18 @@
+
+
+Base x1
+Body x1
+DoorFrameTop x1
+DoorFrameBottom x1
+ServoHousing X2
+BearingHousingTop x6
+ShelfBottom x1
+ShelfTop x1
+ServoGear x6
+Gear x12
+BoltLong x6
+BoltShort x6
+LockGear x1
+LockLatch x1
+PushPanel x6
+OledHousing x1
