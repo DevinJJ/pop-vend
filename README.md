@@ -1,13 +1,15 @@
 # PopVend
-PopVend is a 3D printed mini vending machine that uses trigr.dev QR code to accept card payments.
+PopVend is a 3D printed mini vending machine that uses a trigr.dev QR code to accept instant card payments.
+
+![My Image](assets/images/PopVendHero.png)
 
 ## Features
 
-6 unique item slots that can fit things about the height and length of a credit card.
-Fully electronic and automatic vending
-Small front screen with customizable scolling idle text
-Customizable RGB LEDs above ach product
-QR code payments using [trigr.dev](https://trigr.dev) - Triggers vends instantly after online payments, and payment go instantly to your own stripe account  
+* 6 unique item slots that can fit things about the height and length of a credit card.
+* Fully electronic and automatic vending
+* Small front screen with customizable scolling idle text
+* Customizable RGB LEDs above each product
+* QR code payments using [trigr.dev](https://trigr.dev) - Triggers vends instantly after online payments, and payment go instantly to your own stripe account  
 
 To print the parts you will need access to a 3D printer that can print up to 250mm high and 142mmx215mm
 
