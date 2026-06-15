@@ -1,7 +1,7 @@
 # PopVend
 PopVend is a 3D printed mini vending machine that uses a trigr.dev QR code to accept instant card payments.
 
-![My Image](assets/images/PopVendHero.png)
+![popvend-hero](assets/images/PopVendHero.png)
 
 ## Features
 
@@ -23,3 +23,5 @@ Full build tutorial coming soon
 
 Full Trigr integation tutorial coming soon
 
+---
+*Created by [Devin James](https://www.devinjames.tech/). Need help with your build? Send me a message on Discord, my username is "@devmode250"*
