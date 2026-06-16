@@ -16,7 +16,7 @@ Every part required to build a PopVend vending machine is outlined here.
 |Neopixel LEDs | 6 | | [Amazon](https://www.amazon.com/dp/B00SK8LY9A?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 |XIAO Esp32 C3 | 1 | | [Amazon](https://www.amazon.com/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0DGX3LSC7/ref=sr_1_1_sspa) |
 |Power Chord | 1 | | [Amazon](https://www.amazon.com/dp/B0CKVSS33T?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1) |
-|PCBs | 1 | Available pre-assembled, which will cut down on the number of components you'll need to buy. | [KoFi](https://ko-fi.com/s/fa17100ff3) |
+|PCBs | 1 | Available on my KoFi page | [KoFi](https://ko-fi.com/s/fa17100ff3) |
 |MOSFET Transistor | 1 | Needed for level shifting on the main PCB. | [Amazon](https://www.amazon.com/dp/B08RJ2WKZS?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 |10k resistor | 2 | Needed for level shifting on the main PCB. | [Amazon](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QJB31M7/ref=sr_1_1_sspa) |
 
