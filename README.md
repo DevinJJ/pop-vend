@@ -49,7 +49,7 @@ Add a product for ALL 6 shelves in the machine, even if they are the same produc
 
 Once your portal is made, go to the "Devices" tab to create your device. During device creation, use the "portal" dropdown to select the portal you just created.
 
-![popvend-hero](assets/images/createDevice.png)
+![popvend-hero](assets/images/createdevice.png)
 
 Once that is done, your Trigr portal is all setup to accept payments from your vending machine. However, keep this page open because you will need it one more time in the final step.
 
