@@ -21,11 +21,11 @@ Full build tutorial coming soon
 
 ## How to use Stripe and Trigr for QR code payments
 
-Once your vending machine is all put together and working, it's time to get it setup to vend automatically with Stripe payments. Luckily, this is made very easy with [Trigr.dev](https:/trigr.dev) . 
+Once your vending machine is all put together and working, it's time to get it setup to vend automatically with Stripe payments. Luckily, this is made very easy with [Trigr.dev](https://trigr.dev) . 
 
 ### Step 1: Make a Trigr account & connect your stripe account
 
-Go HERE to create an a free account on trigr. Once your account is setup, you will need to follow the instructions to verify your email. Once your email has been verified, you will be able to onboard your stripe account. To on board your Stripe account click the yellow start button at the top of your Trigr dashboard:
+First, [create an a free account on trigr](https://trigr.dev/auth/register). Once your account is setup, you will need to follow the instructions to verify your email. Once your email has been verified, you will be able to onboard your stripe account. To on board your Stripe account click the yellow start button at the top of your Trigr dashboard:
 
 ![popvend-hero](assets/images/TrigrOnboard1.png)
 
