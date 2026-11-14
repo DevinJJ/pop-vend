@@ -1,11 +1,9 @@
 # Bill of Materials
 
-Every part required to build a PopVend vending machine is outlined here.
-
 > [NOTE]
 > Pricing and availability change frequently.
 
-## Core Electronics
+## Materials Needed
 
 | Item | Qty | Notes | Source |
 | --- | --- | --- | --- |
@@ -19,22 +17,13 @@ Every part required to build a PopVend vending machine is outlined here.
 |PCBs | 1 | Available UNSOLDERED on my KoFi page... You will need to assemble these yourself. | [KoFi](https://ko-fi.com/s/fa17100ff3) |
 |MOSFET Transistor | 1 | Needed for level shifting on the main PCB. | [Amazon](https://www.amazon.com/dp/B08RJ2WKZS?ref=ppx_yo2ov_dt_b_fed_asin_title) |
 |10k resistor | 2 | Needed for level shifting on the main PCB. | [Amazon](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QJB31M7/ref=sr_1_1_sspa) |
-
-## Fasteners & Mechanical Hardware
-
-| Item | Qty | Usage | Amazon |
-| --- | --- | --- | --- |
 | Door Hinges | 2 |  | [Amazon](https://www.amazon.com/dp/B09BHTDFZX?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) |
 | Lock | 1 | | [Amazon](https://www.amazon.com/dp/B0C1P9FT6H?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1) |
 | Bearings | 12 | | [Amazon](https://www.amazon.com/dp/B07X2YCNRR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1) |
 | PlexiGlass 8x10 | 1 | For the door frame. If you get the 8x10, you will only need to cut the top corners to fit the frame. | [Amazon](https://www.amazon.com/dp/B0BZS9GQTF?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) |
 |Screws and nuts | ~40 | For securing the shelves, base and back panel. I just used this variety pack | [Amazon](https://www.amazon.com/dp/B0CJ3DKQKS?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1) |
 
-## 3D Printed Parts
-
-Print the parts listed in [stl/v0.2/01-printlist.txt]. STL files are available live under `/stl/v0.2`.
-
-## Consumables & Tools
+## Other Tools
 
 | Item | Notes | Source |
 | --- | --- | --- |
