@@ -4,11 +4,9 @@
 > Pricing and availability change frequently.
 ### Build Kits
 
-> **Buy everything together**
->
-> Get all the parts listed below in one convenient build kit.
->
-> **[Shop the Card Machine Build Kit →](YOUR_KIT_URL)**
+| Kit | Description | Buy |
+| --- | --- | --- |
+| Card Machine Build Kit | All the parts listed below in one convenient kit. | [Shop the build kit →](YOUR_KIT_URL) |
 
 
 
