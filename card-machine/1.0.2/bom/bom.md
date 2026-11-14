@@ -2,6 +2,15 @@
 
 > [NOTE]
 > Pricing and availability change frequently.
+### Build Kits
+
+> **Buy everything together**
+>
+> Get all the parts listed below in one convenient build kit.
+>
+> **[Shop the Card Machine Build Kit →](YOUR_KIT_URL)**
+
+
 
 ## Materials Needed
 
@@ -18,14 +27,3 @@
 | Lock | 1 | | [Amazon](https://www.amazon.com/dp/B0C1P9FT6H?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1) |
 | Bearings | 2 | | [Amazon](https://www.amazon.com/dp/B07X2YCNRR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1) |
 |Screws and nuts | 12 | For mounting the door, the servo, the back panel, and securing the body to the base | [Amazon](https://www.amazon.com/dp/B0CJ3DKQKS?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4&th=1) |
-
-## Other Tools
-
-| Item | Notes | Source |
-| --- | --- | --- |
-| Leaded solder / Flux | Even if you are getting the pre-assembled PCBs, you will still need to solder the 6 buttons at the back of the shelves. | [Amazon](https://www.amazon.com/s?k=63%2F37+solder+0.8mm) |
-| 22 awg Wire | If using the re-assembled PCB, you will only need this for the break beams and the buttons  | [Amazon](https://www.amazon.com/s?k=63%2F37+solder+0.8mm) |
-| Wire strippers / cutters |  | [Amazon](https://www.amazon.com/s?k=flush+cutters) |
-| JST and Dupont connectors |  | [Amazon](https://www.amazon.com/s?k=flush+cutters) |
-| Wire Crimpers | To build wire connectors | [Amazon](https://www.amazon.com/s?k=63%2F37+solder+0.8mm) |
-| Small Philips Screwdriver | | [Amazon](https://www.amazon.com/s?k=precision+screwdriver+set) |
