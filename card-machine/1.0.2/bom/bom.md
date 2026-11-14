@@ -4,9 +4,9 @@
 > Pricing and availability change frequently.
 ### Build Kits
 
-| Kit | Description | Buy |
+| Kit | Description | Buy Here |
 | --- | --- | --- |
-| Card Machine Build Kit | All the parts listed below in one convenient kit. | [Shop the build kit →](YOUR_KIT_URL) |
+| Card Machine Build Kit | All the parts listed below in one convenient kit. | [Shop the build kit →](https://ko-fi.com/s/4a750f419f) |
 
 
 
